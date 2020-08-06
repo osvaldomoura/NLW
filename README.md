@@ -1,2 +1,2 @@
 # NLW
-treinamento
+Repositório responsável pela semana NLW #  1 Rocketseat .
